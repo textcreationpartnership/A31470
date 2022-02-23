@@ -1,0 +1,782 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Century of sacred disticks, or, Religion in verse</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31470</idno>
+            <idno type="STC">Wing C1672</idno>
+            <idno type="STC">ESTC R38988</idno>
+            <idno type="EEBO-CITATION">18203617</idno>
+            <idno type="OCLC">ocm 18203617</idno>
+            <idno type="VID">107055</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31470)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107055)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1629:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Century of sacred disticks, or, Religion in verse</title>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Leon. Lichfield ...,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Religious poetry, English.</term>
+               <term>Couplets.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:107055:1" rendition="simple:additions"/>
+            <p>A CENTURY OF SACRED DISTICKS OR, RELIGION IN VERSE,</p>
+            <q>
+               <bibl>St. <hi>Gregory.</hi>
+               </bibl>
+               <p>The braveſt thing is a Religious Life.</p> 
+            </q>
+            <p>OXFORD, Printed by <hi>Leon. Lichfield,</hi> Printer to the Univerſity, for <hi>John Barksdale</hi> Bookſeller in
+<hi>Cirenceſter,</hi> 1685.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:107055:2"/>
+            <head>To His Noble Friend.</head>
+            <l>TO preſcribe to theſe Verſes your fair Name,</l>
+            <l>Altho but one clean Sheet, it were no ſhame.</l>
+            <l>Till Something of more Learning I ſhall have,</l>
+            <l>You ſhall be Nameleſs. Yet, <hi>Religion's brave.</hi>
+            </l>
+         </div>
+      </front>
+      <body>
+         <div type="distichs">
+            <pb n="1" facs="tcp:107055:2"/>
+            <head>One Century OF SACRED DISTICKS, OR, Religion in verſe.</head>
+            <div type="to_the_reader">
+               <head>To the READER.</head>
+               <lg>
+                  <l>
+                     <hi>IN theſe plain Verſes I have no other ends,</hi>
+                  </l>
+                  <l>
+                     <hi>But to edify my Self, and my good Friends</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="body_of_distichs">
+               <lg n="1">
+                  <head>I. <hi>Accounts.</hi>
+                  </head>
+                  <l>HOW ſuddenly may I be call'd away!</l>
+                  <l>'Tis good to make Accounts up every day.</l>
+               </lg>
+               <lg n="2">
+                  <head>II. <hi>Acceptance.</hi>
+                  </head>
+                  <l>Lord! Be Thou ſtill the ſame. Thou gracious art</l>
+                  <l>And wilt accept <hi>a broken contrite heart.</hi>
+                  </l>
+               </lg>
+               <lg n="3">
+                  <head>III. <hi>Grace.</hi>
+                  </head>
+                  <l>I fear not, when my Heart by God is view'd,</l>
+                  <l>As by the Grace of Chriſt is is renew'd.</l>
+               </lg>
+               <pb n="2" facs="tcp:107055:3"/>
+               <lg n="4">
+                  <head>IV. <hi>Perſecution.</hi>
+                  </head>
+                  <l>To <hi>perſecute</hi> is to hurt the Innocent:</l>
+                  <l>To <hi>proſecute</hi> is of the Guilty meant.</l>
+               </lg>
+               <lg n="5">
+                  <head>V. <hi>Gravity.</hi>
+                  </head>
+                  <l>Let Grave men take ſo much Autority,</l>
+                  <l>As to correct the faults i'th' company.</l>
+               </lg>
+               <lg n="6">
+                  <head>VI. <hi>Oaths.</hi>
+                  </head>
+                  <l>
+                     <hi>Vain Swearing,</hi> if you hear; to your ſelf look,</l>
+                  <l>You be not guilty: Give it a rebuke.</l>
+               </lg>
+               <lg n="8">
+                  <head>VIII. <hi>Luſt.</hi>
+                  </head>
+                  <l>Some think they are honeſt, if they do not act;</l>
+                  <l>Ill <hi>Thoughts</hi> and <hi>Eyes</hi> are guilty of the Fact.</l>
+               </lg>
+               <lg n="8">
+                  <head>VIII. <hi>Company.</hi>
+                  </head>
+                  <l>Fairly depart, if there be two, or one</l>
+                  <l>Quarrel-ſome Fellow. <hi>Better be alone.</hi>
+                  </l>
+               </lg>
+               <lg n="9">
+                  <head>
+                     <hi>IX.</hi> The Lye.</head>
+                  <l>If it be ſaid, <hi>you lye:</hi> you quarrel and fight:</l>
+                  <l>If told, <hi>you Swear:</hi> of that you make but light.</l>
+               </lg>
+               <lg n="10">
+                  <head>X. <hi>Rules.</hi>
+                  </head>
+                  <l>When you do think or read of ſome good Rule,</l>
+                  <l>
+                     <hi>Bind it in Rhythm,</hi> and put thy ſelf to School.</l>
+               </lg>
+               <lg n="11">
+                  <head>XI. <hi>Conſpiracy.</hi>
+                  </head>
+                  <l>Let Good men make a new Conſpiracy,</l>
+                  <l>To amend this Ages Immorality.</l>
+               </lg>
+               <pb n="3" facs="tcp:107055:3"/>
+               <lg n="12">
+                  <head>XII. <hi>Again.</hi>
+                  </head>
+                  <l>To conſpire in good Actions, is a Thing</l>
+                  <l>Will pleaſe our God, and not diſpleaſe our King.</l>
+               </lg>
+               <lg n="13">
+                  <head>
+                     <hi>XIII.</hi> The Fight.</head>
+                  <l>Single men boldly are gone out, to fight</l>
+                  <l>'Gainſt Sin and Satan. Let their <hi>Force unite.</hi>
+                  </l>
+               </lg>
+               <lg n="14">
+                  <head>XIV. <hi>Fugitives.</hi>
+                  </head>
+                  <l>Little's the Hope of complete Victory,</l>
+                  <l>When ſome of us turn to the Enemy.</l>
+               </lg>
+               <lg n="15">
+                  <head>XV. <hi>Subjects.</hi>
+                  </head>
+                  <l>Why don't all Subjects their good King obey?</l>
+                  <l>They are proud, and wou'd be <hi>their own maſters,</hi> They.</l>
+               </lg>
+               <lg n="16">
+                  <head>XVI. <hi>Money.</hi>
+                  </head>
+                  <l>You do love Money. Yes: tis true you ſay.</l>
+                  <l>But 'tis not to lay up, but <hi>give and pay.</hi>
+                  </l>
+               </lg>
+               <lg n="17">
+                  <head>XVII. <hi>Again.</hi>
+                  </head>
+                  <l>You give too much? No: what I gave,</l>
+                  <l>That in the better Senſe <hi>I have.</hi>
+                  </l>
+               </lg>
+               <lg n="18">
+                  <head>XVIII. <hi>Repayment.</hi>
+                  </head>
+                  <l>What you do borrow, take care to repay:</l>
+                  <l>Not borrow ag<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>in, unleſs you <hi>keep your day.</hi>
+                  </l>
+               </lg>
+               <lg n="19">
+                  <head>XIX. <hi>Night.</hi>
+                  </head>
+                  <l>Awaking, baniſh luſt; and think upon</l>
+                  <l>What good work on the next day muſt be done.</l>
+               </lg>
+               <pb n="4" facs="tcp:107055:4"/>
+               <lg n="20">
+                  <head>XX. <hi>Again.</hi>
+                  </head>
+                  <l>Lying a Bed the Winter Nights ſo long,</l>
+                  <l>Praiſe ye Gods loving kindneſs in a Song.</l>
+               </lg>
+               <lg n="21">
+                  <head>
+                     <hi>XXI.</hi> Sacred Diſticks.</head>
+                  <l>Among your Diſticks, thoſe are beſt of all,</l>
+                  <l>Which contain <hi>Obſervations Scriptural.</hi>
+                  </l>
+               </lg>
+               <lg n="22">
+                  <head>XXII. <hi>Gluttons.</hi> Pſal.</head>
+                  <l>What's ſaid of bloudy men, is true, no doubt,</l>
+                  <l>Of Gluttons: <hi>Half their days</hi> they live not out.</l>
+               </lg>
+               <lg n="23">
+                  <head>XXIII. <hi>Diet.</hi>
+                  </head>
+                  <l>A Diet, ſimple, ſpare, not exceſſive,</l>
+                  <l>Will keep thee in good health, and long alive.</l>
+               </lg>
+               <lg n="24">
+                  <head>XXIV. <hi>Hoſpitality.</hi>
+                  </head>
+                  <l>I praiſe the good Houſe-Keeper. God will bleſs</l>
+                  <l>The Hoſpitable. <hi>Shun Inordinateneſs.</hi>
+                  </l>
+               </lg>
+               <lg n="25">
+                  <head>XXV. <hi>Abſtinent.</hi>
+                  </head>
+                  <l>The Abſtinent will have the more to give;</l>
+                  <l>With what they ſpare the needy they relieve.</l>
+               </lg>
+               <lg n="26">
+                  <head>XXVI. <hi>Parſon.</hi>
+                  </head>
+                  <l>Not only give them, that come to your door;</l>
+                  <l>But ſend your Corn and Money to the poor.</l>
+               </lg>
+               <lg n="27">
+                  <head>XXVII. <hi>Rich.</hi>
+                  </head>
+                  <l>The Rich have a Temptation to exceed:</l>
+                  <l>In great Proſperity then take great heed.</l>
+               </lg>
+               <pb n="5" facs="tcp:107055:4"/>
+               <lg n="28">
+                  <head>XXVIII. <hi>Sayings.</hi>
+                  </head>
+                  <l>Arch-Biſhop <hi>Sheldon</hi>'s: <hi>Do well, and be merry.</hi>
+                  </l>
+                  <l>Old Biſhop <hi>Hacket</hi>'s: <hi>Serve God, and be cheary.</hi>
+                  </l>
+               </lg>
+               <lg n="29">
+                  <head>XXIX. <hi>Entertainment.</hi>
+                  </head>
+                  <l>My Learned Friend, inſtead of Second-Courſe,</l>
+                  <l>Let us have ſome Religious Diſcourſe.</l>
+               </lg>
+               <lg n="30">
+                  <head>
+                     <hi>XXX.</hi> Old Age.</head>
+                  <l>Your Seventy years are paſt: You are alive,</l>
+                  <l>To bring forth <hi>more Fruit</hi> now, at Seventy Five.</l>
+               </lg>
+               <lg n="31">
+                  <head>XXXI. <hi>Forms.</hi>
+                  </head>
+                  <l>With bare External Forms be not content:</l>
+                  <l>Joyn unto them an <hi>Heart Obedient.</hi>
+                  </l>
+               </lg>
+               <lg n="32">
+                  <head>XXXII. <hi>Life</hi> and <hi>Light.</hi> Pſal.</head>
+                  <l>The Well-Spring of <hi>True Life,</hi> Lord, is in Thee:</l>
+                  <l>And in <hi>thy Light</hi> thy Servant Light ſhall ſee.</l>
+               </lg>
+               <lg n="34">
+                  <head>XXXIV. <hi>God.</hi> Pſal.</head>
+                  <l>Thy <hi>Mercy</hi> reacheth to the Heavens ſo high:</l>
+                  <l>Thy <hi>Judgments,</hi> Lord, in the great Deep do lye.</l>
+               </lg>
+               <lg n="35">
+                  <head>XXXV. <hi>Preacher</hi>
+                  </head>
+                  <l>Let not a Preacher overmuch complain:</l>
+                  <l>
+                     <hi>To win Souls</hi> is great pleaſure, is great gain.</l>
+               </lg>
+               <lg n="37">
+                  <head>XXXVII. <hi>Earthly.</hi>
+                  </head>
+                  <l>Could we in Earthly Seats for ever reſt,</l>
+                  <l>'Twere ſome pretence for feathering our Neſt.</l>
+               </lg>
+               <pb n="6" facs="tcp:107055:5"/>
+               <lg n="38">
+                  <head>
+                     <hi>XXXVIII.</hi> Morstua, mors Chriſti.
+<hi>&amp;c.</hi>
+                  </head>
+                  <l>Thy death, Chriſt's Death, the world's fraud, pains of hell,</l>
+                  <l>Glory of Heaven; Theſe <hi>five</hi> remember well.</l>
+               </lg>
+               <lg n="39">
+                  <head>XXX<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>X.
+<hi>Sustine</hi> and <hi>Abstine.</hi> Epict.</head>
+                  <l>Philoſophy in ſhort: Hardſhips ſuſtain</l>
+                  <l>Of Virtue: From delights of Vice abſtain.</l>
+               </lg>
+               <lg n="40">
+                  <head>XL. <hi>Fear.</hi>
+                  </head>
+                  <l>Fear is a Virtue: Be not thou fearleſs</l>
+                  <l>Of that dark Pit, from whence is no regreſs.</l>
+               </lg>
+               <lg n="41">
+                  <head>XLI. <hi>Servant.</hi>
+                  </head>
+                  <l>I'm ſometimes angry with my Servant: then</l>
+                  <l>Am pleas'd, becauſe he <hi>anſwers not agen.</hi>
+                  </l>
+               </lg>
+               <lg n="42">
+                  <head>
+                     <hi>XLII.</hi> Philo of Moſes.</head>
+                  <l>Forty days <hi>Moſes</hi> on the Mount did lye,</l>
+                  <l>Faſting, becauſe he heard <hi>Heavens Melody.</hi>
+                  </l>
+               </lg>
+               <lg n="43">
+                  <head>XLIII. <hi>Heaven.</hi>
+                  </head>
+                  <l>The Labour of our whole life is much leſs,</l>
+                  <l>Infinitely leſs, than Heavens Happineſs.</l>
+               </lg>
+               <lg n="44">
+                  <head>XLIV. <hi>My God.</hi> Pſal.</head>
+                  <l>Lord, I'm thy Servant, Thou haſt choſen me:</l>
+                  <l>Thou art my God, and I have choſen thee.</l>
+               </lg>
+               <lg n="45">
+                  <head>XLV. <hi>Caſſander.</hi>
+                  </head>
+                  <l>
+                     <hi>New Liturgy,</hi> this peaceable Divine</l>
+                  <l>Did, out of <hi>David</hi>'s <hi>Pſalter,</hi> once deſign.</l>
+               </lg>
+               <pb n="7" facs="tcp:107055:5"/>
+               <lg n="46">
+                  <head>XLVI. <hi>Manſion.</hi>
+                  </head>
+                  <l>Friends, would you have a Manſion above?</l>
+                  <l>Think oft, and ſpeak of Heav'n, and live in Love.</l>
+               </lg>
+               <lg n="47">
+                  <head>XLVII. <hi>Scripture.</hi>
+                  </head>
+                  <l>Let ſimple ones read Scripture, but decline</l>
+                  <l>The darker places, till the <hi>Guide</hi> doth ſhine.</l>
+               </lg>
+               <lg n="48">
+                  <head>XLVIII. <hi>Pariſh.</hi>
+                  </head>
+                  <l>The <hi>Miniſter,</hi> if learn'd, and of good life,</l>
+                  <l>Does well deſerve his Pariſhes belief.</l>
+               </lg>
+               <lg n="49">
+                  <head>XLIX. <hi>Friend.</hi>
+                  </head>
+                  <l>I think you are my Friend: I know you are,</l>
+                  <l>If you will have of my poor Soul a care.</l>
+               </lg>
+               <lg n="50">
+                  <head>L. <hi>Humility.</hi>
+                  </head>
+                  <l>Humility's a Jewel. If you have ey'd</l>
+                  <l>Any of your good deeds beware of Pride.</l>
+               </lg>
+               <lg n="51">
+                  <head>LI. <hi>Hope.</hi>
+                  </head>
+                  <l>Ah me! That worldly care creates me fear,</l>
+                  <l>Having a hope of better things ſo near.</l>
+               </lg>
+               <lg n="52">
+                  <head>LII. <hi>Return.</hi>
+                  </head>
+                  <l>Had I not been forſaken, I'd not find,</l>
+                  <l>At Gods Return, ſuch comfort in my mind.</l>
+               </lg>
+               <lg n="53">
+                  <head>LIII. <hi>Charity.</hi>
+                  </head>
+                  <l>Give me a Rule to live well by.</l>
+                  <l>
+                     <hi>Be never out of Charity.</hi>
+                  </l>
+               </lg>
+               <pb n="8" facs="tcp:107055:6"/>
+               <lg n="54">
+                  <head>LIV. <hi>Chaſtiſement.</hi>
+                  </head>
+                  <l>In thy Chaſtiſements, if ſevere thou art:</l>
+                  <l>Lord! Never puniſh me a <hi>hard Heart.</hi>
+                  </l>
+               </lg>
+               <lg n="55">
+                  <head>LV. <hi>Diſconſolate.</hi>
+                  </head>
+                  <l>For the diſconſolate, pity it will win,</l>
+                  <l>If you remember, <hi>This your Caſe has bin.</hi>
+                  </l>
+               </lg>
+               <lg n="56">
+                  <head>LVI. <hi>Carnal.</hi>
+                  </head>
+                  <l>They that themſelves in fleſhly pleaſures roul</l>
+                  <l>Know not the ſorrows of a Penitent Soul.</l>
+               </lg>
+               <lg n="57">
+                  <head>LVII. <hi>God.</hi>
+                  </head>
+                  <l>Chriſtian, when thou feeleſt his ſmart Rod,</l>
+                  <l>Know that ſweet <hi>pleaſures</hi> alſo are from God.</l>
+               </lg>
+               <lg n="58">
+                  <head>LVIII. <hi>Recompenſe.</hi>
+                  </head>
+                  <l>Preſent Affliction is but a ſhort pain:</l>
+                  <l>Joys everlaſting, are the future gain.</l>
+               </lg>
+               <lg n="59">
+                  <head>LIX. <hi>Guard.</hi>
+                  </head>
+                  <l>The Godly have, as other, <hi>this reward.</hi>
+                  </l>
+                  <l>They have, by God's appointment th' <hi>Angels</hi> Guard.</l>
+               </lg>
+               <lg n="60">
+                  <head>LX. <hi>Grave.</hi>
+                  </head>
+                  <l>Pray, when you viſit the deceaſed's Grave,</l>
+                  <l>We a <hi>Reſurrection to life</hi> may have.</l>
+               </lg>
+               <lg n="61">
+                  <head>LXI. <hi>Company.</hi>
+                  </head>
+                  <l>When I'm in Company; I gladly wou'd,</l>
+                  <l>From them receive, and do to them ſome good</l>
+               </lg>
+               <pb n="9" facs="tcp:107055:6"/>
+               <lg n="62">
+                  <head>
+                     <hi>LXII.</hi> Dayly Prayer.</head>
+                  <l>To pray at Church alone, don't you forbear:</l>
+                  <l>
+                     <hi>Chriſt and his Angels</hi> will be with you there.</l>
+               </lg>
+               <lg n="64">
+                  <head>LXIV. <hi>People.</hi>
+                  </head>
+                  <l>Neighbours your Books to Church on Sundays bring</l>
+                  <l>Attend the Miniſter in every thing.</l>
+               </lg>
+               <lg n="65">
+                  <head>LXV. <hi>Again.</hi>
+                  </head>
+                  <l>The face of our Aſſemblies fair wou'd be,</l>
+                  <l>Would people come to good Conformity.</l>
+               </lg>
+               <lg n="66">
+                  <head>LXVI. <hi>Children.</hi>
+                  </head>
+                  <l>God will now bleſs us, Meek <hi>Melanchthon</hi> ſaid,</l>
+                  <l>When at a School he ſaw the Children pray'd.</l>
+               </lg>
+               <lg n="67">
+                  <head>LXVII. <hi>Again.</hi>
+                  </head>
+                  <l>Children may be more gracious, every one,</l>
+                  <l>By the good <hi>Biſhops Confirmation.</hi>
+                  </l>
+               </lg>
+               <lg n="68">
+                  <head>LXVIII. <hi>Breeding.</hi>
+                  </head>
+                  <l>Look to your Children, Friends? If they're ill bred</l>
+                  <l>Better they had, as ſoon as born, been dead.</l>
+               </lg>
+               <lg n="69">
+                  <head>LXIX. <hi>Reverence.</hi>
+                  </head>
+                  <l>Where's little Reverence in the outward part,</l>
+                  <l>I fear there is <hi>no Reverence</hi> in the Heart.</l>
+               </lg>
+               <pb n="10" facs="tcp:107055:7"/>
+               <lg n="70">
+                  <head>
+                     <hi>LXX.</hi> Whole Duty.</head>
+                  <l>The <hi>Second Volume</hi> of the <hi>Duty Whole</hi>
+                  </l>
+                  <l>Is welcome May't prevail on every Soul!</l>
+               </lg>
+               <lg n="71">
+                  <head>LXXI. <hi>Means.</hi>
+                  </head>
+                  <l>The better Means are offer'd to live well,</l>
+                  <l>
+                     <hi>Ill Life</hi> will be more puniſhed in Hell.</l>
+               </lg>
+               <lg n="72">
+                  <head>LXXII. <hi>Dreams.</hi>
+                  </head>
+                  <l>With your <hi>Black Dreams</hi> be never terrify'd,</l>
+                  <l>Their <hi>Vanity</hi> having ſo often try'd.</l>
+               </lg>
+               <lg n="73">
+                  <head>LXXIII. <hi>Examen.</hi>
+                  </head>
+                  <l>When Company is gone, Remember this;</l>
+                  <l>Examine, what you have done, or ſaid amiſs.</l>
+               </lg>
+               <lg n="74">
+                  <head>LXXIV. <hi>Thoughts.</hi>
+                  </head>
+                  <l>Repell ill thoughts: Awaking, think upon,</l>
+                  <l>God's mercy and thy ſins, when ſleep is gone.</l>
+               </lg>
+               <lg n="75">
+                  <head>LXXV. <hi>Intereſt.</hi>
+                  </head>
+                  <l>Man wou'd be a God to himſelf, apt to intend</l>
+                  <l>Profit and intereſt, as his <hi>laſt end.</hi>
+                  </l>
+               </lg>
+               <lg n="75">
+                  <head>LXXV. <hi>Man.</hi>
+                  </head>
+                  <l>Man born again, to whom his Maker's known,</l>
+                  <l>Know's well, that he is <hi>God</hi>'s, more than his own.</l>
+               </lg>
+               <pb n="11" facs="tcp:107055:7"/>
+               <lg n="76">
+                  <head>
+                     <hi>LXXVI.</hi> A Friend.</head>
+                  <l>Haſt thou a Friend? Value him, To him declare</l>
+                  <l>Thy inmoſt thoughts. <hi>A Friend is very rare.</hi>
+                  </l>
+               </lg>
+               <lg n="77">
+                  <head>LXXVII. <hi>Again.</hi>
+                  </head>
+                  <l>Haſt <hi>try'd</hi> thy Friend? Him in thy Book enroul,</l>
+                  <l>Defend him abſent: 'moniſh him preſent; <hi>ſave his ſoul</hi>
+                  </l>
+               </lg>
+               <lg n="78">
+                  <head>LXXVIII. <hi>Enemy.</hi>
+                  </head>
+                  <l>Haſt thou an Enemy? Hath he thee withſtood?</l>
+                  <l>And done ill to thee? <hi>O'recome ill with good.</hi>
+                  </l>
+               </lg>
+               <lg n="79">
+                  <head>LXXIX. <hi>Parents.</hi>
+                  </head>
+                  <l>Parents may Glory in their Children, when</l>
+                  <l>By Divine Grace they are become <hi>New Men.</hi>
+                  </l>
+               </lg>
+               <lg n="80">
+                  <head>LXXX. <hi>Comfort.</hi>
+                  </head>
+                  <l>Ye Souls dejected, who for Comfort look,</l>
+                  <l>Get you a good <hi>Companion,</hi> and good
+<hi>Book.</hi>
+                  </l>
+               </lg>
+               <lg n="81">
+                  <head>LXXXI. <hi>Happineſs.</hi>
+                  </head>
+                  <l>What is our Happineſs, ſincere and true?</l>
+                  <l>To <hi>be and do,</hi> what God wou'd have us <hi>be and do.</hi>
+                  </l>
+               </lg>
+               <lg n="82">
+                  <head>LXXXII. <hi>Civility.</hi>
+                  </head>
+                  <l>When e're you meet me, Neighbour, pray afford</l>
+                  <l>Unto me a kind look, and a kind word.</l>
+               </lg>
+               <pb n="12" facs="tcp:107055:8"/>
+               <lg n="83">
+                  <head>LXXXIII. <hi>Flattery.</hi>
+                  </head>
+                  <l>To flatter ſinners, and ſay, <hi>'Twill be well;</hi>
+                  </l>
+                  <l>Is the moſt eaſy Path-way unto Hell.</l>
+               </lg>
+               <lg n="84">
+                  <head>LXXXIV. <hi>Correction.</hi>
+                  </head>
+                  <l>To correct Vice in theſe licentious Times,</l>
+                  <l>Some little deal conduce your <hi>ſacred Rhymes.</hi>
+                  </l>
+               </lg>
+               <lg n="85">
+                  <head>LXXXV. Relapſe.</head>
+                  <l>Relapſe you may prevent by diligence:</l>
+                  <l>Stand then upon your Watch, <hi>till you go hence.</hi>
+                  </l>
+               </lg>
+               <lg n="86">
+                  <head>LXXXVI. Viſits.</head>
+                  <l>At Viſits of Great Perſons ſpeak not much:</l>
+                  <l>
+                     <hi>Reſpect and Reverence</hi> is due to ſuch.</l>
+               </lg>
+               <lg n="87">
+                  <head>LXXXVII. Meekneſs.</head>
+                  <l>If you converſe ſometimes with froward men,</l>
+                  <l>
+                     <hi>Be Meek:</hi> there will ariſe no Quarrel then.</l>
+               </lg>
+               <lg n="88">
+                  <head>LXXXVIII. Satan.</head>
+                  <l>Sure if the Adverſary do us harm,</l>
+                  <l>'Tis 'cauſe we do'nt our ſelves with firm Faith arm.</l>
+               </lg>
+               <lg n="89">
+                  <head>LXXXIX. Riches.</head>
+                  <l>Riches (as wiſe men ſay) have their <hi>ſwift Wings,</hi>
+                  </l>
+                  <l>And leave us deſtitute. Truſt not theſe things.</l>
+               </lg>
+               <pb n="13" facs="tcp:107055:8"/>
+               <lg n="90">
+                  <head>XC. <hi>Recovery.</hi>
+                  </head>
+                  <l>Marvelous Change, and Memorable Fate!</l>
+                  <l>Thy Faculties are vivid, faint ſo late.</l>
+               </lg>
+               <lg n="91">
+                  <head>XCI. Gifts.</head>
+                  <l>Thy Gifts, with God, will not accepted be,</l>
+                  <l>Nor with Men, if not given <hi>Cheerfully.</hi>
+                  </l>
+               </lg>
+               <lg n="92">
+                  <head>XCII. Portion.</head>
+                  <l>For want of Money is Marriage delaid?</l>
+                  <l>
+                     <hi>Modeſty</hi>'s the beſt Dowry of a Maid.</l>
+               </lg>
+               <lg n="93">
+                  <head>XCIII. Nurſe.</head>
+                  <l>Let not your Infant have an ungodly Nurſe:</l>
+                  <l>All his life-long he is like to be the worſe.</l>
+               </lg>
+               <lg n="94">
+                  <head>XCIV. Preacher.</head>
+                  <l>Then a good Preacher does his Pariſh right,</l>
+                  <l>At once when he does <hi>profit and delight.</hi>
+                  </l>
+               </lg>
+               <lg n="96">
+                  <head>XCVI. Preparation.</head>
+                  <l>What is your great Concernment? To take care</l>
+                  <l>Of my own Soul, and for my Death prepare.</l>
+               </lg>
+               <lg n="97">
+                  <head>XCVII. Loſs.</head>
+                  <l>In idle Talk, vain Sports, and curious Dreſſing,</l>
+                  <l>How many Men and Women loſe a Bleſſing!</l>
+               </lg>
+               <pb n="14" facs="tcp:107055:9"/>
+               <lg n="98">
+                  <head>XCVIII. <hi>Inconſiderate.</hi>
+                  </head>
+                  <l>Some enter in the World, and leave the ſame,</l>
+                  <l>Never conſidering <hi>to what end</hi> they came.</l>
+               </lg>
+               <lg n="99">
+                  <head>
+                     <hi>XCIX.</hi> Good Works.</head>
+                  <l>What Works the Reverend <hi>Thomas Gouge</hi> hath done,</l>
+                  <l>Is well ſet forth by Doctor <hi>Tillotſon.</hi>
+                  </l>
+               </lg>
+               <lg n="100">
+                  <head>
+                     <hi>C.</hi> Good Life.</head>
+                  <l>Every great Lady, that on <hi>Parkhurſt</hi> looks,</l>
+                  <l>May a rare Pattern ſee in Lady <hi>Brookes.</hi>
+                  </l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
